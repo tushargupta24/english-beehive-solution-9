@@ -1,0 +1,109 @@
+{
+    "english-beehive-notes-9":[
+        {  
+        "id":1,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-1 The Fun They Had",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-1.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":2,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-2 The Sound Of The Music",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-2.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-2.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },
+      {
+        "id":3,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-3 The Little Girl",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-3.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },
+      {
+        "id":4,
+        "subject":"English",
+        "image":"English",
+        "description":"English -  Chapter-4 A Truly Beautiful Mind",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-4.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":5,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-5 The Snake And The Mirror",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-5.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-5.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":6,
+        "subject":"English",
+        "image":"English",
+        "description":"English -  Chapter-6 My Childhood",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-6.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-6.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":7,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-7 Packing",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-7.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-7.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":8,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-8 Reach For The Top",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-8.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-8.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":9,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-9 The Bond Of Love",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-9.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-9.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":10,
+        "subject":"English",
+        "image":"English",
+        "description":"English -  Chapter-10 Kathmandu",
+        "download":"assets/images/courses-9/solution/english/english-9-beehive-chapter-10.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-beehive-chapter-10.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      }
+    ]
+}
